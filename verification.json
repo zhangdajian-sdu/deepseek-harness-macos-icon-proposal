@@ -1,0 +1,227 @@
+{
+  "sourceCommit": "639ed015397290b3745d163aafe02ffee4aa3f84",
+  "canvas": 1024,
+  "upstreamPathChecks": [
+    {
+      "name": "default",
+      "exactUpstreamPath": true
+    },
+    {
+      "name": "dark",
+      "exactUpstreamPath": true
+    },
+    {
+      "name": "dark-neutral",
+      "exactUpstreamPath": true
+    }
+  ],
+  "nativeAppearanceSwitching": "not tested",
+  "nativeIconComposerDocument": "not included",
+  "pngChecks": [
+    {
+      "file": "fallback/dark-neutral.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "fallback/dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "fallback/default.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/background-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/background-default.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/foreground-dark-neutral.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/foreground-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/foreground-default.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "layers/foreground-mono.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "preview.png",
+      "dimensions": [
+        1800,
+        1280
+      ]
+    },
+    {
+      "file": "reference/upstream-icon-macos.png",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sizes/dark/128.png",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "sizes/dark/16.png",
+      "dimensions": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "sizes/dark/256.png",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "sizes/dark/32.png",
+      "dimensions": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "sizes/dark/512.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "sizes/dark/64.png",
+      "dimensions": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/128.png",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/16.png",
+      "dimensions": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/256.png",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/32.png",
+      "dimensions": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/512.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "sizes/dark-neutral/64.png",
+      "dimensions": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "sizes/default/128.png",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "sizes/default/16.png",
+      "dimensions": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "sizes/default/256.png",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "sizes/default/32.png",
+      "dimensions": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "sizes/default/512.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "sizes/default/64.png",
+      "dimensions": [
+        64,
+        64
+      ]
+    }
+  ],
+  "allForegroundPathsMatch": true,
+  "sourceSvgSha256": "6ea87fbbb2daeb6aba30ed07ed1e9059e0c2a39a3778d98a475b0ab05034f091"
+}
